@@ -1,0 +1,45 @@
+video {
+
+
+    pointer-events: none;
+}
+
+form {
+    z-index: -100;
+
+}
+
+p {
+  white-space: pre;
+}
+
+#main_navbar {
+
+    z-index: 100;
+}
+
+
+#title_image {
+    position: relative;
+  text-align: center;
+  color: white;
+    
+}
+
+#bottom_right {
+  position: absolute;
+  bottom: 8px;
+  right: 116px;
+}
+
+#text-block {
+  position: absolute;
+  bottom: 5px;
+    left: 0;
+    right: 0;
+    margin: auto;
+  color: white;
+  background-color: rgba(17, 24, 39, .5);
+  padding: 5px;
+
+}
