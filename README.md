@@ -1,3 +1,3 @@
 # LIVE SITE : https://www.tubax.ch
 
-## Build with python and Django
+## Build with Python, Django and Tailwind mostly ;)
